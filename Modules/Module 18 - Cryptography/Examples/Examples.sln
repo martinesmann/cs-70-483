@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - SymmetricAlgorithm", "06 - SymmetricAlgorithm\06 - SymmetricAlgorithm.csproj", "{90FF6472-F5F1-45EC-B0E0-62D1F265EC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11 - AssymmetricAlgorithm", "11 - AssymmetricAlgorithm\11 - AssymmetricAlgorithm.csproj", "{81446FD5-413E-4F43-9086-BD226BAFFCE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 - Nonkeyed Hashing", "16 - Nonkeyed Hashing\16 - Nonkeyed Hashing.csproj", "{BFFB3544-B582-40B0-953D-1D322E3B2EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 - Keyed Hashing", "18 - Keyed Hashing\18 - Keyed Hashing.csproj", "{56CFAD5C-40FD-4641-B49A-D5E02E83EACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - Digital Signatures", "22 - Digital Signatures\22 - Digital Signatures.csproj", "{44B60442-818B-4659-BE1B-05A5E0715C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90FF6472-F5F1-45EC-B0E0-62D1F265EC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90FF6472-F5F1-45EC-B0E0-62D1F265EC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90FF6472-F5F1-45EC-B0E0-62D1F265EC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90FF6472-F5F1-45EC-B0E0-62D1F265EC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81446FD5-413E-4F43-9086-BD226BAFFCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81446FD5-413E-4F43-9086-BD226BAFFCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81446FD5-413E-4F43-9086-BD226BAFFCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81446FD5-413E-4F43-9086-BD226BAFFCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFFB3544-B582-40B0-953D-1D322E3B2EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFFB3544-B582-40B0-953D-1D322E3B2EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFFB3544-B582-40B0-953D-1D322E3B2EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFFB3544-B582-40B0-953D-1D322E3B2EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56CFAD5C-40FD-4641-B49A-D5E02E83EACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56CFAD5C-40FD-4641-B49A-D5E02E83EACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56CFAD5C-40FD-4641-B49A-D5E02E83EACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56CFAD5C-40FD-4641-B49A-D5E02E83EACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B60442-818B-4659-BE1B-05A5E0715C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B60442-818B-4659-BE1B-05A5E0715C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B60442-818B-4659-BE1B-05A5E0715C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B60442-818B-4659-BE1B-05A5E0715C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

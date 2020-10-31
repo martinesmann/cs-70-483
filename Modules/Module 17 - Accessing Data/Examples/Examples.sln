@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 - SqlConnection", "05 - SqlConnection\05 - SqlConnection.csproj", "{ABF1533B-951D-4016-B51B-4CDF4921984C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Question", "Question\Question.csproj", "{2C5E23AA-56D5-4F45-AC19-0CD62AD3AB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Entity Data Model", "09 - Entity Data Model\09 - Entity Data Model.csproj", "{EEF4F2A3-FD4F-457F-857A-433BF06F6338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - XDocument", "14 - XDocument\14 - XDocument.csproj", "{2CFBE9D6-D2F1-4B26-8290-1CE63A5A0FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - Querying XML", "15 - Querying XML\15 - Querying XML.csproj", "{8E0F7119-79D7-48BC-A9DC-D0596369E217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16 - Transforming XML", "16 - Transforming XML\16 - Transforming XML.csproj", "{7812668C-84DA-46B0-BF5E-6702F8C0112E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{44AEE698-61AC-40C6-80F4-DDBEFDFC1F46}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF1533B-951D-4016-B51B-4CDF4921984C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF1533B-951D-4016-B51B-4CDF4921984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF1533B-951D-4016-B51B-4CDF4921984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF1533B-951D-4016-B51B-4CDF4921984C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5E23AA-56D5-4F45-AC19-0CD62AD3AB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5E23AA-56D5-4F45-AC19-0CD62AD3AB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5E23AA-56D5-4F45-AC19-0CD62AD3AB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5E23AA-56D5-4F45-AC19-0CD62AD3AB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF4F2A3-FD4F-457F-857A-433BF06F6338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF4F2A3-FD4F-457F-857A-433BF06F6338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF4F2A3-FD4F-457F-857A-433BF06F6338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF4F2A3-FD4F-457F-857A-433BF06F6338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFBE9D6-D2F1-4B26-8290-1CE63A5A0FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFBE9D6-D2F1-4B26-8290-1CE63A5A0FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFBE9D6-D2F1-4B26-8290-1CE63A5A0FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFBE9D6-D2F1-4B26-8290-1CE63A5A0FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0F7119-79D7-48BC-A9DC-D0596369E217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0F7119-79D7-48BC-A9DC-D0596369E217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0F7119-79D7-48BC-A9DC-D0596369E217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0F7119-79D7-48BC-A9DC-D0596369E217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7812668C-84DA-46B0-BF5E-6702F8C0112E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7812668C-84DA-46B0-BF5E-6702F8C0112E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7812668C-84DA-46B0-BF5E-6702F8C0112E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7812668C-84DA-46B0-BF5E-6702F8C0112E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

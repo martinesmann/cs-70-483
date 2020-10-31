@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace OfficeInterop
+{
+    // TODO 1: Understand the properties of Person
+    public class Person
+    {
+        public string FirstName { get; private set; }
+        public string MiddleName { get; private set; }
+        public string LastName { get; private set; }
+
+        public Person( string lastName, string firstName, string middleName = "" )
+        {
+            LastName = lastName;
+            FirstName = firstName;
+            MiddleName = middleName;
+        }
+
+        public override string ToString()
+        {
+            return string.Format( "{0} {1}{2}",
+                FirstName,
+                MiddleName + " ",
+                LastName );
+        }
+    }
+}

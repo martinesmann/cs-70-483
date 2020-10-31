@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 - Custom Interfaces", "04 - Custom Interfaces\04 - Custom Interfaces.csproj", "{90AB62BF-4580-4A3E-BDD4-9477B13CF06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 - Implementing Interfaces", "06 - Implementing Interfaces\06 - Implementing Interfaces.csproj", "{47251859-08E9-48CA-A21B-220F2A7B716E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09 - Is and As for Interfaces", "09 - Is and As for Interfaces\09 - Is and As for Interfaces.csproj", "{978036F4-ADA9-4642-8168-2502CA5942B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12 - Multiple Interfaces", "12 - Multiple Interfaces\12 - Multiple Interfaces.csproj", "{4C8C199C-B80A-402A-9FA6-E9E600819629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14 - Explicit Interface Implementation", "14 - Explicit Interface Implementation\14 - Explicit Interface Implementation.csproj", "{CC658D69-8D63-4488-90F6-4971C1837BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15 - Designing Interface Hierarchies", "15 - Designing Interface Hierarchies\15 - Designing Interface Hierarchies.csproj", "{D63FF7CB-11C4-46D9-85EB-F18CBF05F21A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 - Implementing IComparable", "19 - Implementing IComparable\19 - Implementing IComparable.csproj", "{1D541B1B-4F37-4AFE-8E1A-F5B733C9A9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 - IComparer", "20 - IComparer\20 - IComparer.csproj", "{F416D3BA-E1E4-49F4-8A01-967BA859AF98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 - IEnumerable Functioning", "22 - IEnumerable Functioning\22 - IEnumerable Functioning.csproj", "{79F83530-2359-40EA-B87A-92A5F3D8E99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 - Implementing IEnumerable", "23 - Implementing IEnumerable\23 - Implementing IEnumerable.csproj", "{FF58A0FE-945E-492C-BE15-FA94939DA888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25 - Named Iterators", "25 - Named Iterators\25 - Named Iterators.csproj", "{0F13B956-4DC7-41DC-866C-957E6FD24B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AB62BF-4580-4A3E-BDD4-9477B13CF06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AB62BF-4580-4A3E-BDD4-9477B13CF06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AB62BF-4580-4A3E-BDD4-9477B13CF06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AB62BF-4580-4A3E-BDD4-9477B13CF06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47251859-08E9-48CA-A21B-220F2A7B716E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47251859-08E9-48CA-A21B-220F2A7B716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47251859-08E9-48CA-A21B-220F2A7B716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47251859-08E9-48CA-A21B-220F2A7B716E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978036F4-ADA9-4642-8168-2502CA5942B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978036F4-ADA9-4642-8168-2502CA5942B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978036F4-ADA9-4642-8168-2502CA5942B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978036F4-ADA9-4642-8168-2502CA5942B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8C199C-B80A-402A-9FA6-E9E600819629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8C199C-B80A-402A-9FA6-E9E600819629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8C199C-B80A-402A-9FA6-E9E600819629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8C199C-B80A-402A-9FA6-E9E600819629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC658D69-8D63-4488-90F6-4971C1837BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC658D69-8D63-4488-90F6-4971C1837BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC658D69-8D63-4488-90F6-4971C1837BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC658D69-8D63-4488-90F6-4971C1837BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63FF7CB-11C4-46D9-85EB-F18CBF05F21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63FF7CB-11C4-46D9-85EB-F18CBF05F21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63FF7CB-11C4-46D9-85EB-F18CBF05F21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63FF7CB-11C4-46D9-85EB-F18CBF05F21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D541B1B-4F37-4AFE-8E1A-F5B733C9A9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D541B1B-4F37-4AFE-8E1A-F5B733C9A9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D541B1B-4F37-4AFE-8E1A-F5B733C9A9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D541B1B-4F37-4AFE-8E1A-F5B733C9A9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F416D3BA-E1E4-49F4-8A01-967BA859AF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F416D3BA-E1E4-49F4-8A01-967BA859AF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F416D3BA-E1E4-49F4-8A01-967BA859AF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F416D3BA-E1E4-49F4-8A01-967BA859AF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79F83530-2359-40EA-B87A-92A5F3D8E99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F83530-2359-40EA-B87A-92A5F3D8E99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F83530-2359-40EA-B87A-92A5F3D8E99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F83530-2359-40EA-B87A-92A5F3D8E99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF58A0FE-945E-492C-BE15-FA94939DA888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF58A0FE-945E-492C-BE15-FA94939DA888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF58A0FE-945E-492C-BE15-FA94939DA888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF58A0FE-945E-492C-BE15-FA94939DA888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F13B956-4DC7-41DC-866C-957E6FD24B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F13B956-4DC7-41DC-866C-957E6FD24B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F13B956-4DC7-41DC-866C-957E6FD24B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F13B956-4DC7-41DC-866C-957E6FD24B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
