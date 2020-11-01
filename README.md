@@ -23,3 +23,37 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/70-483
 The official lab files etc. from Microsoft can be found at the public repo:
 https://github.com/MicrosoftLearning/20483-Programming-in-C-Sharp 
 
+## Other C# resources
+
+*C# programming guide:*
+
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+
+*A tour of the C# language*
+
+https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+
+*.NET Framework Tools (certification prep. tip)*
+
+https://docs.microsoft.com/en-us/dotnet/framework/tools/
+
+*.net decompiler's*
+
+https://www.jetbrains.com/decompiler/
+
+https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode
+
+## Exam prep guides/help
+
+*pluralsight C# path*
+
+https://www.pluralsight.com/paths/csharp
+
+*Microsoft official exam practice test's*
+
+https://eu1.mindhub.com/70-483-programming-in-c-microsoft-official/p/MU-70-483?utm_source=microsoft&amp%3Butm_medium=certpage&amp%3Butm_campaign=msofficialpractice
+
+*Book - Exam Ref*
+
+Exam Ref 70-483 Programming in C# 2nd Edition, Rob Miles.
+Amazon: https://www.amazon.com/Exam-Ref-70-483-Programming-Miles/dp/1509306986
