@@ -63,3 +63,9 @@ https://eu1.mindhub.com/70-483-programming-in-c-microsoft-official/p/MU-70-483?u
 Exam Ref 70-483 Programming in C# 2nd Edition, Rob Miles.
 
 Amazon: https://www.amazon.com/Exam-Ref-70-483-Programming-Miles/dp/1509306986
+
+## Next step
+
+### What's new in C#
+
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/
