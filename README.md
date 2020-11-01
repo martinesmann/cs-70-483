@@ -44,6 +44,7 @@ https://www.jetbrains.com/decompiler/
 https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode
 
 *.NET 5 (.net core) vs. .NET Framework (in Microsoft's own word's)* 
+
 https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 
 
@@ -60,4 +61,5 @@ https://eu1.mindhub.com/70-483-programming-in-c-microsoft-official/p/MU-70-483?u
 *Book - Exam Ref*
 
 Exam Ref 70-483 Programming in C# 2nd Edition, Rob Miles.
+
 Amazon: https://www.amazon.com/Exam-Ref-70-483-Programming-Miles/dp/1509306986
