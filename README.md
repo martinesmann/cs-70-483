@@ -43,6 +43,10 @@ https://www.jetbrains.com/decompiler/
 
 https://marketplace.visualstudio.com/items?itemName=icsharpcode.ilspy-vscode
 
+*.NET 5 (.net core) vs. .NET Framework (in Microsoft's own word's)* 
+https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
+
+
 ## Exam prep guides/help
 
 *pluralsight C# path*
