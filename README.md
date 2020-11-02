@@ -25,6 +25,10 @@ https://github.com/MicrosoftLearning/20483-Programming-in-C-Sharp
 
 ## Other C# resources
 
+*Bogen om C# (Danish only)*
+
+https://www.bogenomcsharp.dk/
+
 *C# programming guide:*
 
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
